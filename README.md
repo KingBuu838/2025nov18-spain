@@ -77,7 +77,6 @@ click on the orange next button
 group size
 
 scaling
--
 automatic scaling = target tracking scaling policy
 instance maintenance policy = no policy
 additional capacity setting = default
@@ -86,4 +85,13 @@ click orange next
 add notifications
 add tags
 review 
--review the summary when done click on orange create auto scaling group button
+-review the summary when done click on orange, create auto scaling group button
+
+Teardown
+EC2 Teardown instructions:
+- Delete any ASGs 
+- Delete Load Balancer listeners 
+- Delete Target groups
+- Make sure all instances are terminated
+- Check dashboard for running resources
+-[Extra step] make sure nothing is showing in EBS > volumes

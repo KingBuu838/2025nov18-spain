@@ -1,6 +1,7 @@
 ASG steps Click Ops
 ---
 **1. Launch Template**
+
 - click on instances, and click on the instance
 - go to actions, image and templates, then create template from instance
 -Launch Template name and description
@@ -16,6 +17,7 @@ ASG steps Click Ops
 	- user_data = make sure it is correct and working 
 ---
 **2. Target Groups**
+
 - click on target groups and click on the orange button
 - Settings
 	- Target type = Instances
@@ -34,6 +36,7 @@ click orange next button
 Review summary of choices and click orange Create target group button
 ---
 **3. Load Balancers**
+
 click on load balancers and click on the orange create load balancer
 click on application load balancer
 Basic Configuration
@@ -55,6 +58,7 @@ Default action
 review the chooses you made then click on the orange create load balancer
 ---
 **4. Auto Scaling Group**
+
 -click on autoscaling groups and click create auto scaling group
 choose launch template
 -name = what you choose to name it
@@ -86,6 +90,7 @@ add notifications
 add tags
 review 
 -review the summary when done click on orange, create auto scaling group button
+
 ---
 **Teardown**
 EC2 Teardown instructions:

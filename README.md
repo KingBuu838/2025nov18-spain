@@ -88,7 +88,7 @@ additional health check types = Turn on ELastic Load Balancing health checks
 click on the orange next button
 group size
 
-scaling
+Scaling
 - automatic scaling = target tracking scaling policy,
 - instance maintenance policy = no policy,
 - additional capacity setting = default,

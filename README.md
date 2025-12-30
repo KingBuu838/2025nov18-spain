@@ -1,5 +1,5 @@
 ASG steps Click Ops
-
+---
 1. launch template
 - click on instances, and click on the instance
 - go to actions, image and templates, then create template from instance
@@ -14,7 +14,7 @@ ASG steps Click Ops
 	- common security groups = security group you created
 - Advanced details
 	- user_data = make sure it is correct and working 
-
+---
 2. Target Groups
 - click on target groups and click on the orange button
 - Settings

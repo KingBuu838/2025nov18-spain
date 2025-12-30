@@ -89,10 +89,10 @@ click on the orange next button
 group size
 
 scaling
-automatic scaling = target tracking scaling policy,
-instance maintenance policy = no policy,
-additional capacity setting = default,
-and additional settings = skip
+- automatic scaling = target tracking scaling policy,
+- instance maintenance policy = no policy,
+- additional capacity setting = default,
+- and additional settings = skip
 click orange next
 add notifications
 add tags
